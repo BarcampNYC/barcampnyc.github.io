@@ -1,6 +1,7 @@
 body {
 	margin: 0px;
 	padding: 0px;
+	background: url('img/background.png');
 }
 
 #wrapper {
@@ -14,5 +15,14 @@ body {
 
 .right {
 	float: right;
+}
+
+a {
+	color: #598cc9;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
 }
 
