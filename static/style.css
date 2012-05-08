@@ -12,6 +12,10 @@ body {
 
 #header {
 }
+	#header iframe {
+		margin: 25px 20px 0px 0px;
+		float: right;
+	}
 
 .right {
 	float: right;
