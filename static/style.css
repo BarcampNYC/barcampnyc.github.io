@@ -12,8 +12,18 @@ body {
 
 #header {
 }
+	#header .details {
+		float: right;
+		text-align: right;
+		padding-top: 14px;
+	}
+		#header .details h2 {
+			margin: 0px;
+			font-weight: normal;
+		}
+	
 	#header iframe {
-		margin: 25px 20px 0px 0px;
+		margin: 25px 0px 0px 0px;
 		float: right;
 	}
 
