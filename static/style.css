@@ -42,5 +42,5 @@ a:hover {
 
 /* hacking twitter widget so it stops blocking clicks on facebook like button */
 .twtr-widget {
-  float: left;
+	float: left;
 }
