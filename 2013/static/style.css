@@ -1,0 +1,46 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	background: url('img/background.png');
+}
+
+#wrapper {
+	width: 500px;
+	margin: 20px auto;
+	font-family: 'Crete Round', serif;
+}
+
+#header {
+}
+	#header .details {
+		float: right;
+		text-align: right;
+		padding-top: 14px;
+	}
+		#header .details h2 {
+			margin: 0px;
+			font-weight: normal;
+		}
+	
+	#header iframe {
+		margin: 25px 0px 0px 5px;
+		float: right;
+	}
+
+.right {
+	float: right;
+}
+
+a {
+	color: #598cc9;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+/* hacking twitter widget so it stops blocking clicks on facebook like button */
+.twtr-widget {
+	float: left;
+}
