@@ -1,4 +1,4 @@
-BarCampNYC.org
+BarCamp.nyc
 ==============
 
 Join us!
